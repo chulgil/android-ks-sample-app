@@ -4,6 +4,7 @@
     <style name="Theme.MySampleApp" parent="android:Theme.Material.Light.NoActionBar" />
   <!-- Base application theme. -->
     <style name="Base.Theme.MySampleApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimaryVariant">@color/base_beige</item>
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>

@@ -7,4 +7,18 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- 베이스 컬러 (배경색) -->
+    <color name="base_beige">#FFF4CC</color>
+    <color name="soft_beige">#F5EBDC</color>
+    <color name="nude_pink">#F0C8C8</color>
+    <color name="cream_white">#FAF5F0</color>
+    <color name="modern_navy">#1E2D50</color>
+
+    <!-- 포인트 컬러 (아이콘 요소) -->
+    <color name="deep_brown">#643C28</color>
+    <color name="warm_grey">#B4AAA0</color>
+    <color name="soft_orange">#F0B48C</color>
+    <color name="dark_charcoal">#323232</color>
+
 </resources>

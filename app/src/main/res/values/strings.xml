@@ -3,7 +3,7 @@
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in">회원가입</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="action_sign_out">Sign Out</string>
     <string name="welcome">"Welcome !"</string>
@@ -54,4 +54,6 @@
     </string>
     <string name="action_board_write">write</string>
     <string name="action_list">list</string>
+    <string name="action_login">로그인</string>
+    <string name="action_guest">비회원</string>
 </resources>
