@@ -12,13 +12,13 @@ import me.chulgil.mysampleapp.databinding.ActivityViewBinding
 class ViewActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
-private lateinit var binding: ActivityViewBinding
+    private lateinit var binding: ActivityViewBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-     binding = ActivityViewBinding.inflate(layoutInflater)
-     setContentView(binding.root)
+        binding = ActivityViewBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
         setSupportActionBar(binding.toolbar)
 
